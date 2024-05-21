@@ -14,6 +14,6 @@ TextEditor is a simple Java-based text editing application that provides basic f
 - Scrollable text area.
 
 ## usage
-- use any of your java ide and run it
+- use any of your Java IDE and run the code
 
 
